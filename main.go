@@ -2,9 +2,11 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/vOmarred11/df-vanilla-commands/commands"
+
 	"log/slog"
 	"os"
-	"plugin-impl/commands"
 
 	"github.com/df-mc/dragonfly/server"
 	"github.com/df-mc/dragonfly/server/player/chat"
